@@ -1,0 +1,13 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+  background-color: #cabdb2;
+  border: 3px solid #9a816d;
+  border-radius: 8px;
+}
